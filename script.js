@@ -33,4 +33,4 @@ function knightMoves(start, end) {
   }
   return null;
 }
-knightMoves([3, 3], [4, 3]);
+console.log(knightMoves([3, 3], [4, 3]));
